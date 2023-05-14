@@ -1,5 +1,5 @@
 # python3
-
+#done
 class Treade:
     def __init__(self, timeStart, position, taskNumber):
         self.taskNumber  = taskNumber
